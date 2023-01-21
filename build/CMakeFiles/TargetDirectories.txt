@@ -1,5 +1,0 @@
-C:/Users/User/Desktop/f111/build/CMakeFiles/main.dir
-C:/Users/User/Desktop/f111/build/CMakeFiles/myLib.dir
-C:/Users/User/Desktop/f111/build/CMakeFiles/RUN_TESTS.dir
-C:/Users/User/Desktop/f111/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/User/Desktop/f111/build/CMakeFiles/ZERO_CHECK.dir
